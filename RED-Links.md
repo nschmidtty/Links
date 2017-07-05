@@ -1,5 +1,3 @@
-Links
-
 #HTML
   https://html5forwebdesigners.com/semantics/ -Semantics
 
