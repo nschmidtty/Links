@@ -13,6 +13,10 @@ Links
     http://getbem.com/
     https://smacss.com/
   ##CSS Animation
+    https://www.w3.org/TR/css3-transitions/#animatable-properties - W3C CSS Transitions
+    https://desandro.github.io/3dtransforms/ - 3D Transformations
+    http://valhead.com/book/ - Animations Pocket Guide
+    http://animista.net/ GUI Animation Builder
   ##SASS
     http://jaydenseric.com/blog/fun-with-sass-and-font-icons - Sass and Icon Fonts
 
@@ -26,6 +30,11 @@ Links
   https://github.com/airbnb/javascript - JQuery Cheat Sheet
   https://www.sitepoint.com/guide-jquery-animate-method/ - JQuery Animate guide
   http://blog.teamtreehouse.com/writing-your-own-jquery-plugins - Build Your Own JQuery Plugin
+
+#Performance
+  https://www.youtube.com/playlist?list=PLLnpHn493BHGpGXukqYsxwQw3ziW3uti6 - Youtube Tutorials
+  http://frontendbabel.info/articles/webpage-rendering-101/ - Website Rendering
+
 
 
 
